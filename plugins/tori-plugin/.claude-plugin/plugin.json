@@ -1,0 +1,6 @@
+{
+  "name": "tori-plugin",
+  "description": "토리기자 부동산·주식 콘텐츠 자동화 스킬 모음",
+  "version": "1.0.0",
+  "author": { "name": "BK" }
+}
